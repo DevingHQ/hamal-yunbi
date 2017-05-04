@@ -10,9 +10,14 @@ $ npm install --save hamal-yunbi
 ## Usage
 
 ```js
-var hamalYunbi = require('hamal-yunbi');
+import Yunbi from 'hamal-yunbi';
 
-hamalYunbi('Rainbow');
+const client = new Yunbi({key, secret});
+client.setupMarket(currency, asset);
+
+client.accounts().then(data => {
+  // do something ...
+});
 ```
 ## License
 
