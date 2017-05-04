@@ -1,6 +1,6 @@
 {
   "name": "hamal-yunbi",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A sdk with nodejs for Yunbi's API",
   "homepage": "https://github.com/devingHQ/hamal-yunbi",
   "author": {
