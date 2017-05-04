@@ -47,7 +47,7 @@
       "camelcase": ["error", {"properties": "never"}]
     }
   },
-  "repository": "mengjiaqi/hamal-yunbi",
+  "repository": "devingHQ/hamal-yunbi",
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
