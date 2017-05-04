@@ -1,7 +1,7 @@
 {
   "name": "hamal-yunbi",
   "version": "0.0.0",
-  "description": "A nodejs sdk for Yunbi's API",
+  "description": "A sdk with nodejs for Yunbi's API",
   "homepage": "https://github.com/devingHQ/hamal-yunbi",
   "author": {
     "name": "Jackie Meng",
